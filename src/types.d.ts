@@ -17,6 +17,4 @@ type Pokemon =
         "weaknesses": Array<string>,
         "prev_evolution"?: Array<{num:string,name:string}>,
         "next_evolution"?: Array<{num:string,name:string}>
-        
-
       }
